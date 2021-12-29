@@ -1,0 +1,28 @@
+.background{
+background-color: #81D5FA;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+.teeth{
+    position: absolute;
+    left: 966px;
+    top: 0px;
+}
+.logo{
+    position: absolute;
+    left: 78px;
+    top: 77px;    
+}
+.box1{
+    position: absolute;
+    left: 83px;
+    top: 274px;
+}
+.box2{
+    position: absolute;
+    left: 631px;
+    top: 274px;
+}
